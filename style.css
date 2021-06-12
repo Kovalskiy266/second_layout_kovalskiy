@@ -1,0 +1,67 @@
+.container
+{
+    width: 1400px;
+    max-width: 100%;
+    margin: 0 auto;
+
+}
+
+/* .content_container 
+{
+    padding-left: 210px;
+    padding-right: 210px;
+} */
+
+header {
+    
+    width: 1400px;
+    max-width: 100%;
+    display: flex;
+    padding-left: 210px;
+    padding-right: 210px;
+    padding-top: 65px;
+    padding-bottom: 65px;
+    background-color: #dcdcdc;
+    box-sizing: border-box;
+}
+
+menu {
+
+    width: 1000px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+main {
+    width: 1000px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer {
+    width: 1000px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.slider {
+
+    width: 1400px;
+    max-width: 100%;
+}
+
+.text {
+    color: brown;
+}
+
+.logo 
+{
+    width: 273px;
+    height: 100px;
+}
+
+.right_block 
+{
+    margin: 0 0 0 auto;
+}
