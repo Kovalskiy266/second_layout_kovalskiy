@@ -175,6 +175,11 @@ footer {
     box-sizing: border-box;
 }
 
+.block
+{
+    display: block;
+}
+
 .news
 {
     font-size: 40px;
@@ -295,12 +300,12 @@ a
     color: #ffffff;
     font-family: "PT Sans";
     font-size: 14px;
-    font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
     line-height: 26px;
     /* text-align: left; */
     text-decoration: underline;
+    display: block;
 }
 
 .right_footer
@@ -323,6 +328,8 @@ a
     flex-direction: column;
     margin-left: auto;
 }
+
+
 
 .right_text
 {
